@@ -1,0 +1,14 @@
+{
+  "logo.alt": {
+    "message": "Nassim Avatar",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Projets": {
+    "message": "Projets",
+    "description": "Navbar item with label Projets"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "link.title.Sections": {
+    "message": "Sections",
+    "description": "The title of the footer links column with title=Sections in the footer"
+  },
+  "link.title.Contact": {
+    "message": "Contact",
+    "description": "The title of the footer links column with title=Contact in the footer"
+  },
+  "link.title.Où me retrouver ?": {
+    "message": "Où me retrouver ?",
+    "description": "The title of the footer links column with title=Où me retrouver ? in the footer"
+  },
+  "link.item.label.Accueil": {
+    "message": "Accueil",
+    "description": "The label of footer link with label=Accueil linking to /"
+  },
+  "link.item.label.Mes articles": {
+    "message": "Mes articles",
+    "description": "The label of footer link with label=Mes articles linking to /blog"
+  },
+  "link.item.label.Mes projets": {
+    "message": "Mes projets",
+    "description": "The label of footer link with label=Mes projets linking to /projects"
+  },
+  "link.item.label.06 58 31 53 26": {
+    "message": "06 58 31 53 26",
+    "description": "The label of footer link with label=06 58 31 53 26 linking to #"
+  },
+  "link.item.label.nassim-taoussi@hotmail.com": {
+    "message": "nassim-taoussi@hotmail.com",
+    "description": "The label of footer link with label=nassim-taoussi@hotmail.com linking to #"
+  },
+  "link.item.label.LinkedIn": {
+    "message": "LinkedIn",
+    "description": "The label of footer link with label=LinkedIn linking to https://www.linkedin.com/in/nassim-taoussi-435279171/"
+  },
+  "link.item.label.Medium": {
+    "message": "Medium",
+    "description": "The label of footer link with label=Medium linking to https://medium.com/@nassim-taoussi"
+  },
+  "link.item.label.Gitlab": {
+    "message": "Gitlab",
+    "description": "The label of footer link with label=Gitlab linking to https://gitlab.com/NassimTaoussi"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/NassimTaoussi"
+  },
+  "link.item.label.Stack Overflow": {
+    "message": "Stack Overflow",
+    "description": "The label of footer link with label=Stack Overflow linking to https://stackoverflow.com/users/21119488/nassim-taoussi"
+  },
+  "link.item.label.Dev Community": {
+    "message": "Dev Community",
+    "description": "The label of footer link with label=Dev Community linking to https://dev.to/nassimtaoussi"
+  },
+  "copyright": {
+    "message": "Copyright © 2025.",
+    "description": "The footer copyright"
+  }
+}
