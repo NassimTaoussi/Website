@@ -1,0 +1,18 @@
+.stackTitle {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.stacks {
+    display: flex;
+    align-items: space-around;
+    padding: 2rem 0;
+    width: 100%;
+  }
+  
+.stackSvg {
+  height: 100px;
+  width: 100px;
+  margin-bottom: 30px;
+}
+  

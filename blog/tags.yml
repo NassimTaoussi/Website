@@ -1,0 +1,34 @@
+php:
+  label: PHP
+  permalink: /php
+  description: PHP tag description
+
+symfony:
+  label: Symfony
+  permalink: /symfony
+  description: Symfony tag description
+
+git:
+  label: GIT
+  permalink: /git
+  description: GIT tag description
+
+sql:
+  label: SQL
+  permalink: /sql
+  description: SQL tag description
+
+javascript:
+  label: Javascript
+  permalink: /javascript
+  description: Javascript tag description
+
+react:
+  label: React
+  permalink: /react
+  description: React tag description
+
+vuejs:
+  label: VueJS
+  permalink: /vuejs
+  description: VueJS tag description
