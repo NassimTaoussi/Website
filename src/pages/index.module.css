@@ -22,3 +22,9 @@
   align-items: center;
   justify-content: center;
 }
+
+.pictureMe {
+  width: 200px !important;
+  height: 200px !important;
+  border-radius: 100px;
+}
